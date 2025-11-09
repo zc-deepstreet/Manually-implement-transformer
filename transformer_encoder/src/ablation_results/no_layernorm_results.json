@@ -1,0 +1,8 @@
+{
+  "description": "\u65e0LayerNorm\u7684Transformer",
+  "final_loss": 2.7998602390289307,
+  "final_ppl": 16.44234861189565,
+  "best_loss": 2.7998602390289307,
+  "best_ppl": 16.44234861189565,
+  "parameters": 438696
+}

@@ -1,0 +1,8 @@
+{
+  "description": "\u65e0\u6b8b\u5dee\u8fde\u63a5\u7684Transformer",
+  "final_loss": 2.083763360977173,
+  "final_ppl": 8.034649374614533,
+  "best_loss": 2.083763360977173,
+  "best_ppl": 8.034649374614533,
+  "parameters": 439720
+}

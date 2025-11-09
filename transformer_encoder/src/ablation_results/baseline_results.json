@@ -1,0 +1,8 @@
+{
+  "description": "完整Transformer模型",
+  "final_loss": 0.9428,
+  "final_ppl": 2.5670,
+  "best_loss": 0.9373,
+  "best_ppl": 2.5532,
+  "parameters": 439720
+}
