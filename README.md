@@ -4,14 +4,16 @@ Below is the training loss.
 <img width="1200" height="400" alt="2df33d4aead142e391b82bcf139f4df5" src="https://github.com/user-attachments/assets/6aae8bb2-cb55-4f76-858f-d0a01e2e1d2f" />
 
 The project structure is as follows:
-├── configs   
+```
+transformer_encoder/
+├── configs/
 │   ├── base.py
-│   ├── results
-│   └── scripts
+│   ├── results/
+│   └── scripts/
 ├── run.sh
-├── src
-│   ├── ablation_results
-│   ├── results
+├── src/
+│   ├── ablation_results/
+│   ├── results/
 │   ├── __init__.py
 │   ├── ablation_no_layernorm.py
 │   ├── ablation_no_positional.py
@@ -23,8 +25,9 @@ The project structure is as follows:
 │   ├── training_curves.png
 │   ├── utils.py
 │   └── wikitext-2-v1.zip
-├── README.md
-└── requirements.txt
+├── requirements.txt
+└── README.md
+```
 
 Requirement：
 torch>=1.9.0
