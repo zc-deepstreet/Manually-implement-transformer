@@ -29,6 +29,8 @@ transformer_encoder/
 └── README.md
 ```
 
+'seed': 42,
+
 Requirement：
 torch>=1.9.0
 torchtext>=0.10.0
